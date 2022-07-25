@@ -1,0 +1,2 @@
+# reactjs-and-firebaseDB
+i used A JavaScript library c Reactjs for building user interfaces AND rirebase for back end. for linux users you should change the permission of the bin file in the modules using chmode +x ... commnd so that the scrips could start and then enter t use command pm start For windows just uninstall my node_MODULES and enter the command npm install mosules to install new module and npm start to start the server ,,,,,, for more deALS whatsaap me 0715133221 WORKING FROM KENYA
