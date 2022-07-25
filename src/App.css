@@ -1,0 +1,110 @@
+body {
+  background-color: #fafafa;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  width: 100%;
+  align-items: center;
+  height: 100vh;
+}
+
+.box {
+  border: 1px solid #dfdfdf;
+  background-color: #fff;
+}
+
+.g-btn {
+  background-color: rgb(0, 237, 110);
+  width: 20% !important;
+ 
+  font-size: px !important;
+  resize: both; line-height: 20px !important;
+}
+.g-btn > div,
+.g-btn > div > svg {
+  width: 300px !important;
+  background-color: #25b900;
+  height: 60px !important;
+}
+
+.upper {
+  background-color: #825e1b;
+  
+  position: absolute;
+  right: 150px;
+  width: 200px;
+  height: 120px;
+  border: 3px solid green;
+}
+
+
+
+.bing {
+  background-color: #e8c918;
+  text-align: left;
+  padding: 20px 10px;
+  resize: vertical;
+  overflow: auto;
+  resize: vertical;
+}
+body{
+  background-color: white;
+}
+
+.form{
+ background-color: transparent;
+  border-radius: 5px;
+  width: 550px;
+  margin: 20px auto;
+  padding: 20px;
+  /* height: 600px; */
+}
+
+
+#wgtmsr{
+  width:200px;   
+ }
+
+ #toxic{
+ 
+  right: 150px;  
+ }
+
+
+
+
+.form-body{
+  text-align: left;
+  padding: 20px 10px;
+}
+
+.form-body > *{
+  padding: 5px;
+}
+
+.form__label{
+  width: 40%;
+}
+.form__btn{
+  width: 40%;
+  padding: 5px;
+  
+}
+
+.form_input{
+  width: 60%;
+}
+.head2{
+  text-align: center
+}
+.btn{
+  background-color: green;
+  text-align: center;
+}
+
+.button{
+  background-color: palegreen;
+}
+.footer{
+  text-align: center;
+}
